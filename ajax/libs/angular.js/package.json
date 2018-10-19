@@ -17,14 +17,5 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/angular/angular.js.git"
-  },
-  "npmName": "angular",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/angular*(js|map)"
-      ]
-    }
-  ]
+  }
 }
